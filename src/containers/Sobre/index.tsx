@@ -6,10 +6,12 @@ const Sobre = () => (
   <section>
     <Titulo fontSize={16}>Sobre mim</Titulo>
     <Paragrafo tipo="principal">
-      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum,
-      doloribus. Nemo, reprehenderit saepe. Nostrum beatae excepturi ut nobis
-      earum ex incidunt assumenda, veniam pariatur perferendis itaque quos eius
-      vel laudantium.
+      Meu nome é João Victor Dias Gonçalves, tenho 20 anos, atualmente estudo no
+      5° período da Universidade Federal da Paraíba, e faço o curso
+      Desenvolvedor Full Stack Python pela Escola Britânica de Artes Criativas e
+      Tecnologias(EBAC). Possuo carreira em evolução na área de Desenvolvimento
+      Web, me aperfeiçoando cada vez mais em linguagens de programação, sempre
+      com flexibilidade, muita criatividade e vontade de aprender.
     </Paragrafo>
     <GithubSecao>
       <img

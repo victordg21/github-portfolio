@@ -5,7 +5,7 @@ export const Card = styled.div`
   padding: 16px;
 `
 
-export const LinkBotao = styled.a`
+export const LinkButtom = styled.a`
   color: ${(props) => props.theme.corDeFundo};
   font-size: 14px;
   background-color: ${(props) => props.theme.corDeFundoDoBotao};

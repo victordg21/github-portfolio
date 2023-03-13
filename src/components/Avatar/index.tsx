@@ -1,5 +1,5 @@
-import { FotoPerfil } from './styles'
+import { PerfilPhoto } from './styles'
 
-const Avatar = () => <FotoPerfil src="https://github.com/victordg21.png" />
+const Avatar = () => <PerfilPhoto src="https://github.com/victordg21.png" />
 
 export default Avatar

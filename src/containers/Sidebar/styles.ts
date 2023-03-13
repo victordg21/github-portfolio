@@ -17,6 +17,9 @@ export const BotaoTema = styled.button`
 
   @media (max-width: 768px) {
     margin-bottom: 40px;
+    height: 50px;
+    width: 100px;
+    font-size: 13px;
   }
 `
 export const SidebarContainer = styled.div`

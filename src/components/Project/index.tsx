@@ -6,7 +6,9 @@ const Project = () => (
   <Card>
     <Title>Projeto Lista de Tarefas</Title>
     <Paragraph tipo="secundary">Lista de Tarefas com Vue JS</Paragraph>
-    <LinkButtom>Visualizar</LinkButtom>
+    <LinkButtom href="https://github.com/victordg21?tab=repositories">
+      Visualizar
+    </LinkButtom>
   </Card>
 )
 
